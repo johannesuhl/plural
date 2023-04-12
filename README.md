@@ -18,3 +18,13 @@ United States Department of Health and Human Services. National Institutes of He
 
 Previous versions of the PLURAL methodology:
 Uhl, Johannes H., Stefan Leyk, Lori M. Hunter, Catherine B. Talbot, Dylan S. Connor, Jeremiah J. Nieves, and Myron Gutmann. “A Fine-Grained, Versatile Index of Remoteness to Characterize Place-Level Rurality.” In Annual Meeting of the Population Association of America (PAA). online, 2021. https://doi.org/10.48550/arXiv.2202.08496.
+
+Data sources for the sample data in this repository: Place-level population counts (1980-2010) and place locations 1930 - 2018 were obtained from IPUMS NHGIS, (University of Minnesota, www.nhgis.org; Manson et al. 2022). Place-level population counts 1930 were digitized from historical census records (U.S. Census Bureau 1942, 1964).
+
+References:
+
+Steven Manson, Jonathan Schroeder, David Van Riper, Tracy Kugler, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 16.0 [dataset]. Minneapolis, MN: IPUMS. 2021. http://doi.org/10.18128/D050.V16.0
+
+U.S. Census Bureau (1942). U.S. Census of Population: 1940. Vol. I, Number of Inhabitants. U.S. Government Printing Office, Washington, D.C.
+
+U.S. Census Bureau (1964). U.S. Census of Population: 1960. Vol. I, Characteristics of the Population. Part I, United States Summary. U.S. Government Printing Office, Washington, D.C. 
