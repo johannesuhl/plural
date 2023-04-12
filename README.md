@@ -1,4 +1,4 @@
-# PLURAL: Place-level rural-urban indices
+# PLURAL: Place-level urban-rural indices
 PLURAL is a framework to create continuous classifications of "rurality" or "urbanness" based on the spatial configuration of populated places.
 PLURAL makes use of the concept of "remoteness" to characterize the level of spatial isolation of a populated place with respect to its neighbors.
 There are two implementations of PLURAL, including (a) PLURAL-1, based on distances to the nearest places of user-specified population classes, and (b) PLURAL-2, based on neighborhood characterization derived from spatial networks.
