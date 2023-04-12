@@ -6,11 +6,10 @@ PLURAL requires simplistic input data, i.e., the coordinates (x,y) and populatio
 
 Using the PLURAL framework, we created place-level rural-urban indices for the conterminous United States from 1930 to 2018. These data are publicly available and con be downloaded at URL.
 
-<img width="500" src="https://github.com/johannesuhl/plural/blob/main/inv750ms_PLURAL_2_scaled_across_years_equal_weights.gif">
-<img width="500" src="https://github.com/johannesuhl/plural/blob/main/invSUBSET_750ms_PLURAL_2_scaled_across_years_equal_weights.gif">
+<img width="500" src="https://github.com/johannesuhl/plural/blob/main/inv750ms_PLURAL_2_scaled_across_years_equal_weights.gif"> <img width="500" src="https://github.com/johannesuhl/plural/blob/main/invSUBSET_750ms_PLURAL_2_scaled_across_years_equal_weights.gif">
 
-The method has been peer-reviewed and is published here:
+The method paper has been peer-reviewed and is accepted for publication in "Landscape and Urban Planning":
 
-INSERT PAPER REF HERE
+Uhl, J.H., Hunter, L.M., Leyk, S., Connor, D.S., Nieves, J.J., Hester, C., Talbot, C.B. and Gutmann, M., 2022. Place-level urban-rural indices for the United States from 1930 to 2018. arXiv preprint arXiv:2202.13767. (https://arxiv.org/abs/2202.13767)
 
 
