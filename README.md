@@ -6,7 +6,7 @@ PLURAL requires simplistic input data, i.e., the coordinates (x,y) and populatio
 
 Using the PLURAL framework, we created place-level rural-urban indices for the conterminous United States from 1930 to 2018. These data are publicly available and con be downloaded at URL.
 
-SHOW GIF OF PLURAL US
+<img width="500" src="https://github.com/johannesuhl/plural/blob/main/hironex.jpg">
 
 The method has been peer-reviewed and is published here:
 
