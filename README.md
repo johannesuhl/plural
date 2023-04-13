@@ -5,7 +5,7 @@ PLURAL makes use of the concept of "remoteness" to characterize the level of spa
 There are two implementations of PLURAL, including (a) PLURAL-1, based on distances to the nearest places of user-specified population classes, and (b) PLURAL-2, based on neighborhood characterization derived from spatial networks.
 PLURAL requires simplistic input data, i.e., the coordinates (x,y) and population p of populated places (villages, towns, cities) in a given point in time. Due to its simplistic input, the PLURAL rural-urban classification scheme can be applied to historical data, as well as to data from data-scarce settings.
 
-Using the PLURAL framework, we created place-level rural-urban indices for the conterminous United States from 1930 to 2018. These data are publicly available and con be downloaded at [10.6084/m9.figshare.22596946](http://doi.org/10.6084/m9.figshare.22596946).
+Using the PLURAL framework, we created place-level rural-urban indices for the conterminous United States from 1930 to 2018. These data are publicly available and can be downloaded at [10.6084/m9.figshare.22596946](http://doi.org/10.6084/m9.figshare.22596946).
 
 <img width="450" src="https://github.com/johannesuhl/plural/blob/main/inv750ms_PLURAL_2_scaled_across_years_equal_weights.gif"> <img width="450" src="https://github.com/johannesuhl/plural/blob/main/invSUBSET_750ms_PLURAL_2_scaled_across_years_equal_weights.gif">
 
