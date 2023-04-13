@@ -14,7 +14,7 @@ Rural-urban classifications are essential for analyzing geographic, demographic,
 Uhl, J.H., Hunter, L.M., Leyk, S., Connor, D.S., Nieves, J.J., Hester, C., Talbot, C.B. and Gutmann, M., 2022. Place-level urban-rural indices for the United States from 1930 to 2018. arXiv preprint arXiv:2202.13767. (https://arxiv.org/abs/2202.13767)
 
 Funding Sources:  
-United States Department of Health and Human Services. National Institutes of Health. Eunice Kennedy Shriver National Institute of Child Health and Human Development (2P2CHD066613-06); United States Department of Health and Human Services. National Institutes of Health. Eunice Kennedy Shriver National Institute of Child Health and Human Development (R21HD098717-01A1) 
+United States Department of Health and Human Services. National Institutes of Health. Eunice Kennedy Shriver National Institute of Child Health and Human Development (2P2CHD066613-06); United States Department of Health and Human Services. National Institutes of Health. Eunice Kennedy Shriver National Institute of Child Health and Human Development (5R21HD098717-02) 
 
 Previous versions of the PLURAL methodology:
 Uhl, Johannes H., Stefan Leyk, Lori M. Hunter, Catherine B. Talbot, Dylan S. Connor, Jeremiah J. Nieves, and Myron Gutmann. “A Fine-Grained, Versatile Index of Remoteness to Characterize Place-Level Rurality.” In Annual Meeting of the Population Association of America (PAA). online, 2021. https://doi.org/10.48550/arXiv.2202.08496.
